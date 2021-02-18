@@ -6,7 +6,6 @@ I thought Logo was really nice to use as a step back into coding after being awa
 ![logo.png]({{site.baseurl}}/logo.png)
 
 
-//
 
 ## Algorithmic Walk
 
