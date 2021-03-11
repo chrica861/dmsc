@@ -5,5 +5,6 @@ I was wondering if a game like The Sims would count as artificial life. Is that 
 I made a worm. I got the array down. I wasn't entirely sure has to incorporate the force in to the scene. Like I understood the code and where to put it and how it worked with the bouncy balls, but not exactly if it was working with my creatures, or how exactly it was working. I would assume if I saw how exactly it was working I would be able to see the emergence more clearly. The emergence would be the worms following the rules of the force, and how they interact with their surroundings based off of that code? Anyways, here's some screenshots and the code.
 
 [Worm Sketch](https://editor.p5js.org/christamichelle99/sketches/2sQbP4Bck)
+
 ![unknown.png]({{site.baseurl}}/unknown.png)
 ![]({{site.baseurl}}//unknown%20(1).png)
