@@ -6,8 +6,4 @@ I made a worm. I got the array down. I wasn't entirely sure has to incorporate t
 
 [Worm Sketch](https://editor.p5js.org/christamichelle99/sketches/2sQbP4Bck)
 ![unknown.png]({{site.baseurl}}/unknown.png)
-![]({{site.baseurl}}//unknown%20(1).png)![unknown (1).png]({{site.baseurl}}/unknown (1).png)
-
-
-
-
+![]({{site.baseurl}}//unknown%20(1).png)
