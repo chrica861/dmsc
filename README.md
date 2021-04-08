@@ -12,3 +12,5 @@ Devlog for Drawing, Moving, and Seeing with Code
 [Artificial Life](2021-03-11-artificial-life.md)
 
 [TidalWaves Jam](2021-03-17-tidalwaves.md)
+
+[Hydra](2021-04-08-Hydra.md)
