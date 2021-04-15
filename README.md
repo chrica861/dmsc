@@ -14,3 +14,5 @@ Devlog for Drawing, Moving, and Seeing with Code
 [TidalWaves Jam](2021-03-17-tidalwaves.md)
 
 [Hydra](2021-04-08-Hydra.md)
+
+[Squirrel Group Project](2021-04-15-squirrels.md)
